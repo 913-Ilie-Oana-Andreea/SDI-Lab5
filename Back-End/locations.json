@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Arena Nationala",
+    "city": "Bucuresti",
+    "address": "Bd. Carol I, nr. 1, Sector 1",
+    "capacity": 55634,
+    "description": "Arena Națională is a retractable roof football stadium in Bucharest, Romania. It opened in 2011 on the site of the original National Stadium, which was demolished between 2007 and 2008. ",
+    "contact": "0723 614 302"
+  },
+  {
+    "name": "Form Space",
+    "city": "Cluj-Napoca",
+    "address": "Aleea Stadionului, nr. 2, Cluj-Napoca",
+    "capacity": 835,
+    "description": "Form Space is a concert hall in Cluj-Napoca, Romania. It is located in the city's main stadium, the Cluj Arena. ",
+    "contact": "0264 411 411"
+  },
+  {
+    "name": "Expirat",
+    "city": "Bucuresti",
+    "address": "Str. Ion Ghica, nr. 1, Sector 1",
+    "capacity": 950,
+    "description": "Expirat is a concert hall in Bucharest, Romania. It is located in the city's main stadium, the National Arena. ",
+    "contact": "0723 614 302"
+  },
+  {
+    "name": "Control Club",
+    "city": "Bucuresti",
+    "address": "Strada Constantin Mille, nr. 4, Sector 1",
+    "capacity": 80,
+    "description": "Control Club is popular nightspot with several spaces for live bands, DJs & dancing, plus a leafy garden terrace.",
+    "contact": "0733 927 861"
+  },
+  {
+    "name": "Romexpo",
+    "city": "Bucuresti",
+    "address": "Bulevardul Mărăști 65-67 Sector 1",
+    "capacity": 20000,
+    "description": "Romexpo, also known as Romexpo Dome or Romexpo Town, is a large exhibition center and indoor arena in Bucharest, Romania. It is primarily used for exhibitions, concerts, and sporting events.",
+    "contact": "021 207 7000"
+  },
+  {
+    "name": "Arenele Romane",
+    "city": "Bucuresti",
+    "address": "Parcul Carol",
+    "capacity": 5500,
+    "description": "Well-known music artists perform at this large, vibrant amphitheater with drinks for sale.",
+    "contact": "021 335 3480"
+  },
+  {
+    "name": "Underground Pub",
+    "city": "Iasi",
+    "address": "Strada 1 Decembrie 1918, nr. 1",
+    "capacity": 760,
+    "description": "Underground Pub is a concert hall in Iasi, Romania. It is located in the city's main stadium, the National Arena. ",
+    "contact": "0232 200 200"
+  },
+  {
+    "name": "Hallenstadion",
+    "city": "Zurich",
+    "address": "Hallenstrasse 15, 8004",
+    "capacity": 15000,
+    "description": "Hallenstadion is a multi-purpose stadium in Zurich, Switzerland. It is used mostly for football matches and is the home ground of FC Zürich. It is also used for other sports and music events.",
+    "contact": "044 422 22 22"
+  },
+  {
+    "name": "Arena Geneve",
+    "city": "Geneva",
+    "address": "Route de Meyrin 28, 1217 Meyrin",
+    "capacity": 15000,
+    "description": "Arena Geneva is a multi-purpose stadium in Geneva, Switzerland. It is used mostly for football matches and is the home ground of Servette FC. It is also used for other sports and music events.",
+    "contact": "022 418 18 18"
+  },
+  {
+    "name": "Riverside",
+    "city": "Aarburg",
+    "address": "Rheinweg 1, 5000 Aarburg",
+    "capacity": 10000,
+    "description": "Riverside is a multi-purpose stadium in Aarburg, Switzerland. It is used mostly for football matches and is the home ground of FC Aarburg. It is also used for other sports and music events.",
+    "contact": "056 200 20 20"
+  }
+]

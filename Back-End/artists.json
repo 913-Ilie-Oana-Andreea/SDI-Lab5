@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Slipknot",
+    "manager": "Stephen Shaw",
+    "members": "Corey Taylor <3, Shawn Crahan, Mick Thomson, Jim Root, Sid Wilson, Craig Jones, Alessandro Venturella, Jay Weinberg, Michael Pfaff",
+    "genre": "Alternative Metal",
+    "category": "Big"
+  },
+  {
+    "name": "Vended",
+    "manager": "Stephen Shaw",
+    "members": "Griffin Taylor, Simon Crahan <3, Cole Espeland, Jeremiah Pugh, Connor Grodzicki",
+    "genre": "Alternative Metal",
+    "category": "New entry"
+  },
+  {
+    "name": "Metallica",
+    "manager": "Peter Mensch",
+    "members": "James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo",
+    "genre": "Heavy Metal",
+    "category": "Big"
+  },
+  {
+    "name": "Guns N' Roses",
+    "manager": "Doug Goldstein",
+    "members": "Axl Rose, Slash, Duff McKagan, Richard Fortus, Frank Ferrer, Melissa Reese, Dizzy Reed, Chris Pitman, Ron \"Bumblefoot\" Thal",
+    "genre": "Hard Rock",
+    "category": "Big"
+  },
+  {
+    "name": "Ghost BC",
+    "manager": "Tommy Johansson",
+    "members": "Tobias Forge (as Papa Emeritus IV), A Group of Nameless Ghouls, Papa Nihil",
+    "genre": "Heavy Metal",
+    "category": "Medium"
+  },
+  {
+    "name": "Coma",
+    "manager": "Mihai Coman",
+    "members": "Cătălin Chelemen, Dan Costea, Matei Tibacu-Blendea, Sorin Petrescu, Răzvan Albu, Răzvan Rădulescu",
+    "genre": "Alternative Rock",
+    "category": "Small"
+  },
+  {
+    "name": "Alternosfera",
+    "manager": "Codruta Vulcu",
+    "members": "Marcel Bostan, Marin Nicoară, Sergiu Aladin, Dumitru Costin, Nickel Russu ",
+    "genre": "Alternative Rock",
+    "category": "Small"
+  },
+  {
+    "name": "Vita de Vie",
+    "manager": "Ema Podet",
+    "members": "Adrian Despot, Adrian Ciuplea, Cezar Popescu, Sorin \"Pupe\" Tănase, Mihai Ardelean",
+    "genre": "Alternative Rock",
+    "category": "Small"
+  },
+  {
+    "name": "Iron Maiden",
+    "manager": "Rod Smallwood",
+    "members": "Bruce Dickinson, Steve Harris, Dave Murray, Adrian Smith, Janick Gers, Nicko McBrain",
+    "genre": "Heavy Metal",
+    "category": "Big"
+  },
+  {
+    "name": "Amon Amarth",
+    "manager": "Johan Lindstrand",
+    "members": "Johan Hegg, Johan Söderberg, Olavi Mikkonen, Ted Lundström, Fredrik Andersson, Johan Langell",
+    "genre": "Melodic Death Metal",
+    "category": "Medium"
+  },
+  {
+    "name": "Megadeth",
+    "manager": "David Ellefson",
+    "members": "Dave Mustaine, David Ellefson, Kiko Loureiro, Dirk Verbeuren, Chris Adler",
+    "genre": "Thrash Metal",
+    "category": "Medium"
+  },
+  {
+    "name": "Machine Head",
+    "manager": "Robb Flynn",
+    "members": "Robb Flynn, Phil Demmel, Dave McClain, Jared MacEachern",
+    "genre": "Thrash Metal",
+    "category": "Medium"
+  },
+  {
+    "name": "Sabaton",
+    "manager": "Joakim Brodén",
+    "members": "Joakim Brodén, Pär Sundström, Tommy Johansson, Daniel Mÿhr, Chris Rörland, Hannes Van Dahl",
+    "genre": "Power Metal",
+    "category": "Medium"
+  },
+  {
+    "name": "Helloween",
+    "manager": "Michael Weikath",
+    "members": "Michael Kiske, Kai Hansen, Michael Weikath, Markus Grosskopf, Sascha Gerstner",
+    "genre": "Power Metal",
+    "category": "Medium"
+  },
+  {
+    "name": "Jinjer",
+    "manager": "Vitaly Kozlov",
+    "members": "Eugene Abdukhanov, Vladislav Kozlov, Alexander Kolomiets, Vladislav Matorin, Vladislav Vorobyev",
+    "genre": "Metalcore",
+    "category": "Medium"
+  },
+  {
+    "name": "Sonata Arctica",
+    "manager": "Tommy Johansson",
+    "members": "Tony Kakko, Henrik Klingenberg, Jani Liimatainen, Elias Viljanen, Pasi Kauppinen, Pekka Heino",
+    "genre": "Power Metal",
+    "category": "Medium"
+  }
+]
